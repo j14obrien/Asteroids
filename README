@@ -1,1 +1,11 @@
-This is Asteroids
+Adam Skiffington
+Jonathan O'Brien
+
+Final Project:
+  Galaga-type video game involving 5 enemies and one player. The player and enemies both shoot at each other and if either is hit they are
+  removed from the game. The controls for the player are 'A' which moves the player to the left; 'D' which moves the player to the right;
+  'Q' which quits the game; and 'Spacebar' which makes the user fire a bullet from his location. The user wins the game if all of the 
+  enemies are removed from the game.
+  
+Design:
+  The program was designed in Python using the graphics.py package from Zelle.    
